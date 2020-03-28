@@ -1,1 +1,1 @@
-#WSL configs
+# WSL configs
